@@ -1,8 +1,6 @@
 # OSINT ToolKit
 
-
 ## Domain/Email
-
 
 ### Online
 * Epieos
@@ -17,7 +15,6 @@
    * Can query with shodan to locate public hosts
 
 ## Social Media
-
 
 ### Online
 * StartMe
@@ -39,24 +36,16 @@
    * Lookup email information
    * Email creation date, profile picture, social media accounts
 
-
 ### Script
 * sherlock.py
    * https://github.com/sherlock*project/sherlock
    * Enumerates through online/social media accounts with domain/email
-* 
 
 ## Phone Number
 
 
-### Online
-
-
-### Script
-
 
 ## Image Lookup
-
 
 ### Online
 * StartMe
@@ -77,11 +66,8 @@
    * https://www.metadata2go.com/
    * Extracts metedata from image
 
-### Script
-
 
 ## Aviation
-
 
 ### Online
 * StartMe
@@ -94,12 +80,7 @@
    * Speed, direction.
 
 
-
-### Script
-
-
 ## Maritime
-
 
 ### Online
 * StartMe
@@ -113,11 +94,7 @@
    * Weather, conditions.
 
 
-### Script
-
-
 ## Vehicle
-
 
 ### Online
 * StartMe
@@ -137,14 +114,9 @@
 * WorldLicensePlates
    * http://www.worldlicenseplates.com/
    * database of countries license plates and images
-* 
-
-
-### Script
 
 
 ## CyberHackyThingzMaybe
-
 
 ### Online
 * Maltego
@@ -156,13 +128,9 @@
    * Allows for querying and locating of devices
    * Accessing active devices and open ports
    * Locating devices such as webcams that are exploitable etc.
-* 
-
-### Script
 
 
 ## Notes/Compiling
-
 
 ### Diagrams/Visualization
 * Rapid Data Visualization
@@ -192,5 +160,3 @@
    * Hierarchical note taking app
    * Great and customizable
       + can be abit buggy so definetly backup
-* 
-
